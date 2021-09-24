@@ -1,2 +1,1 @@
-# BigContest2021
-2021년 BigContest 수산Biz (평가지표 : RMSE)
+[BigContest 결과보고서.pdf](https://github.com/moohan132435/BigContest2021/files/7221878/BigContest.pdf)
