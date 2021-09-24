@@ -22,4 +22,5 @@
   4) 모델구축 완벽성 미흡
   5) 2021년 RMSE 검증 시간부족으로 인해 미흡
 
-[BigContest 결과보고서.pdf](https://github.com/moohan132435/BigContest2021/files/7221878/BigContest.pdf)
+**4. 제출PPT**
+ ==> [BigContest 결과보고서.pdf](https://github.com/moohan132435/BigContest2021/files/7221878/BigContest.pdf)
